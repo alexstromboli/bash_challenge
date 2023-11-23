@@ -1,8 +1,10 @@
 # Coding Challenge
 
-Please write a Bash script, which would calculate and show
-the **total byte size** of all the files with extension `.bin`,
-in the root folder and all the nested subfolders.
+* Clone this repository.
+
+* Write a Bash script, which would calculate and show
+the **total byte size** of all the files with extension `.bin`
+in this entire repository, in all the folders and subfolders.
 
 I.e:
 * `funny.bin` is 11607 bytes
